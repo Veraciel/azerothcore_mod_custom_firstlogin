@@ -1,3 +1,6 @@
+# ![logo](https://raw.githubusercontent.com/azerothcore/azerothcore.github.io/master/images/logo-github.png) AzerothCore
+- Latest build status with azerothcore: [![Build Status](https://travis-ci.org/azerothcore/mod-custom-login.svg?branch=master)](https://travis-ci.org/azerothcore/mod-custom-login)
+
 # Custom Login #
 
 ### Description ###
@@ -21,7 +24,6 @@
 ### Version ###
 ------------------------------------------------------------------------------------------------------------------
 - v2017.08.01 - Release
-
 
 ### Credits ###
 ------------------------------------------------------------------------------------------------------------------
